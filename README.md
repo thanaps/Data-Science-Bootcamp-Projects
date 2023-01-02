@@ -15,4 +15,4 @@ we learn 10 sprint during 4 month program.
 - Dashboard
 
 Badges:
-https://www.credly.com/users/thanap-s
+https://badgr.com/public/assertions/6INGm76kQZiKKrDTRRi6KQ
