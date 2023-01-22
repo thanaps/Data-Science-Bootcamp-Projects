@@ -53,7 +53,8 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
 - Intro to Marketing
 - Intro to Power BI
 
-
+\
+\
 **Badges: [Certified Professional Data Analyst](https://badgr.com/public/assertions/6INGm76kQZiKKrDTRRi6KQ)**
 
 ![image](https://user-images.githubusercontent.com/119058036/213900744-c14623e5-6e08-468a-983f-6771c71f8642.png)
